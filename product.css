@@ -1,0 +1,27 @@
+body {
+  background-color: lightgrey;
+}
+
+.product {
+  color: purple;
+}
+
+.name {
+    color: slateblue;
+  	font-family: verdana;
+  	font-size: 20px;
+  	font-weight: bold;
+  	display: block;
+}
+
+.category {
+	color: gray;
+  	font-family: verdana;
+  	font-size: p18x;
+  	font-weight: bold;
+}
+
+.description, .price {
+  font-family: verdana;
+  font-size: 14px;
+}
